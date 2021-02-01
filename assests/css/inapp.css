@@ -1,0 +1,20 @@
+:root {
+    --backround: rgb(43, 255, 0);
+    --letters: rgb(0, 0, 145);
+}
+
+.title {
+    color:var(--letters);
+    justify-self: start;
+    background: var(--backround);
+    background-color:var(--backround);
+    text-align: center;
+}
+
+.topnav {
+    color: var(--letters); 
+    display: block;
+    background-color: var(--backround);
+    text-align: right;
+
+}

@@ -1,0 +1,10 @@
+:root {
+    --backround: rgb(43, 255, 0);
+    --letter: rgb(0, 0, 145);
+}
+
+.login {
+    text-align: center;
+    background-color:var(--backround);
+    align-self: center;
+}
