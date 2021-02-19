@@ -1,0 +1,36 @@
+:root {
+    --backround: rgb(43, 255, 0);
+    --letter: rgb(0, 0, 145);
+}
+
+.wallPaper {
+    image-rendering: auto;
+}
+
+.signInForm {
+    background-color: red;
+}
+
+/* Title of app */
+.header {
+    font-size: 30px;
+    justify-content: center;
+}
+
+/* login buuton */
+.loginSubmit {
+    text-align: center;
+    background-color:var(--backround);
+    align-self: center;
+    font: var(--letter);
+}
+
+/* Username slot div */
+.userName {
+    text-shadow: var(--letter);
+}
+
+/* Password slot div */
+.password {
+    text-shadow: var(--letter);
+}
