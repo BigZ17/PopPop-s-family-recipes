@@ -34,3 +34,7 @@
 .password {
     text-shadow: var(--letter);
 }
+
+.loginSubmit {
+    opacity: 0.8;
+}
